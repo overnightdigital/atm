@@ -16,13 +16,13 @@ whitdrawal 💸
 edge cases: >> IN: amount withdrawn -- OUT: amount of banconotes (min)
 
 - IN: < 1 
-  OUT: -1
+✅ OUT: -1
 
 - IN: > 1500 
-  OUT: -1
+🚧 OUT: -1
 
 Core algorithm:
 - IN: 500
-  OUT: 1
+🚧 OUT: 1
 
 ...

@@ -1,2 +1,2 @@
-def validate():
-	return True
+def validate(value):
+	return -1
